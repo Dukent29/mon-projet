@@ -1,0 +1,73 @@
+*{
+    font-family: sans-serif;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.header h4{
+    padding: 10px;
+}
+.header i{
+    padding: 10px;
+}
+.pre-header{
+    display: flex;
+    justify-content: space-between;
+}
+.home{
+    display: flex;
+	align-items: center;
+}
+.home h6{
+    margin-right: 0.4rem;
+	border-radius: 50rem;
+	margin-left: 0.7rem;
+}
+.apropos{
+    padding-right: 10px;
+}
+
+
+form{
+    margin-top: 25px;
+}
+strong{
+    color: rgb(179, 179, 51);
+}
+.logo{
+    background-color: black;
+    align-content: center;
+
+}
+.recently{
+    display: flex;
+    justify-content: space-between;
+    margin: 15px 75px; 
+}
+.jordan img{
+    border-radius: 25px;
+}
+.jordan_air{
+    display: flex;
+    flex-direction: column; 
+}
+.jumpman img{
+    border-radius: 25px;
+}
+
+
+.jordan_1{
+    display: flex;
+    flex-direction: column;
+}
+.reebok img{
+    border-radius: 25px;
+}
+
+.reebok_1{
+    display: flex;
+    flex-direction: column;
+}
+.
+
